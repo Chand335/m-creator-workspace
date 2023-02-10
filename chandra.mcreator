@@ -1,0 +1,66 @@
+{
+  "mod_elements": [
+    {
+      "name": "SuperPickaxe",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_pickaxe"
+    },
+    {
+      "name": "Superpicaxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpicaxe"
+    },
+    {
+      "name": "SuperAxe",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_axe"
+    },
+    {
+      "name": "SuperAxeRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_axe_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.chandra.superpicaxe": "Super Pick Axe",
+      "item.chandra.super_axe": "Super Axe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "chandra",
+    "modName": "Chandra",
+    "version": "1.0.0",
+    "author": "Chandra, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.chandra",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

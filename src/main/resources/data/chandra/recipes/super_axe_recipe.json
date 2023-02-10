@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wooden_axe"
+    },
+    "1": {
+      "item": "minecraft:wooden_axe"
+    },
+    "2": {
+      "item": "minecraft:wooden_axe"
+    }
+  },
+  "result": {
+    "item": "chandra:super_axe",
+    "count": 1
+  }
+}

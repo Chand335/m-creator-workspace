@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wooden_pickaxe"
+    },
+    "1": {
+      "item": "minecraft:wooden_pickaxe"
+    },
+    "2": {
+      "item": "minecraft:wooden_pickaxe"
+    }
+  },
+  "result": {
+    "item": "chandra:superpicaxe",
+    "count": 1
+  }
+}

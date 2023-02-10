@@ -31,6 +31,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "super_axe_recipe"
+    },
+    {
+      "name": "SuperAxeToolInInventoryTick",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_axe_tool_in_inventory_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],

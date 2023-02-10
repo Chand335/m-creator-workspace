@@ -25,7 +25,6 @@ public class SuperAxeToolInInventoryTickProcedure {
 			(itemstack).enchant(Enchantments.ALL_DAMAGE_PROTECTION, 10);
 			(itemstack).enchant(Enchantments.PROJECTILE_PROTECTION, 10);
 			(itemstack).enchant(Enchantments.MOB_LOOTING, 10);
-			(itemstack).enchant(Enchantments.MOB_LOOTING, 10);
 		}
 	}
 }
